@@ -25,4 +25,4 @@ Manifiesto de los arregladores
 
 **12. Comparte tus ideas, tu entusiasmo y tus habilidades.** Si has descubierto el placer de arreglar, pásalo. Es un regalo para toda la vida.
 
-De los inventores de sugru. El mérito de la inspiración es del manifiesto de la reparación de Platform 21, ifixit, Holstee y el Cult of Done. Traducido al español por Emilio Cano (@emiliocanod).
+De los inventores de sugru. El mérito de la inspiración es del manifiesto de la reparación de [Platform 21](http://www.platform21.nl), [ifixit](http://www.ifixit.com/), [Holstee](http://shop.holstee.com/pages/about) y el [Cult of Done](http://www.brepettis.com/blog/2009/3/3/the-cult-of-done-manifesto.html). Traducido al español por Emilio Cano ([@emiliocanod](http://twitter.com/emiliocanod)).
